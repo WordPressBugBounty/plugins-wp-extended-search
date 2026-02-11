@@ -2,7 +2,7 @@
 Contributors: 5um17
 Tags: search, advanced search, category search, tag search, woocommerce search
 Requires at least: 4.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.0
 Stable tag: 2.2.1
 License: GPLv3
